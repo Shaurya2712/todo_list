@@ -1,0 +1,8 @@
+# Handle line endings
+* text=auto
+
+# Specific rules
+*.sh text eol=lf
+*.json text eol=lf
+*.lock text eol=lf
+*.bat text eol=crlf
